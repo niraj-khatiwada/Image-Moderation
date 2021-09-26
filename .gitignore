@@ -2,3 +2,4 @@
 /.env
 /uploads/*
 !/uploads/.gitkeep
+/server.backup.js
